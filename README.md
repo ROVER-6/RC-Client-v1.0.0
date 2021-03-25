@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Rover Client!
 
-You can use the [editor on GitHub](https://github.com/ROVER-6/RC-Client-v1.0.0/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+We provide the quickest, easiest, safest and overpowering hacking client of 2021. However, it is in beta and you will need access to the beta from the creator. You can still download Rover Client via the github.io page however you will be unable to login. The code IS obfuscated so do not try cracking RC!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Src
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Where is the src? We don't have a source, due to people potentially pirating RC! We may sell source code to our client yet we are considering it.
 
 ```markdown
 Syntax highlighted code block
@@ -26,12 +24,29 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Features
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ROVER-6/RC-Client-v1.0.0/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+We provide the cleanest and quickest features on RC yet. Here are some examples:
+- Roblox Hacks (In Progress)
+- Roblox Version Checker
+- Phasmophobia Hacks
+- DLL Injector
+- CS:GO Hacks (Coming Soon)
+- ImGui Guides (Coming soon)
+- Quick and easy address dumper (In Progress)
 
-### Support or Contact
+This is v1.0.0 at the end of the day so we will be completing it ASAP!
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Discord Support
+
+Having trouble with RC? Add my Discord: **! ROVER6#3134**
+
+### Coding Guides
+
+Will be releasing C# code on my YouTube ([Link]https://www.youtube.com/channel/UCvSIawBrubXNrwVU78jm9_A).
+I will be doing Lua and C++ tutorials and Batch Too.
+
+```markdown
+MessageBox.Show("Thanks for viewing my GitHub Page!", "Thanks!", MessageBoxButtons.OK, MessageBoxIcon.Information);
+```
