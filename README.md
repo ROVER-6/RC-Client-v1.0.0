@@ -44,7 +44,7 @@ Having trouble with RC? Add my Discord: **! ROVER6#3134**
 
 ### Coding Guides
 
-Will be releasing C# code on my YouTube ([Link]https://www.youtube.com/channel/UCvSIawBrubXNrwVU78jm9_A).
+Will be releasing C# code on my YouTube (https://www.youtube.com/channel/UCvSIawBrubXNrwVU78jm9_A).
 I will be doing Lua and C++ tutorials and Batch Too.
 
 ```markdown
